@@ -14,10 +14,10 @@
 
 ## Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/deepa-gupta-335a97244" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/deepa-gupta37" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://www.kaggle.com/deepa2705" rel="nofollow noreferrer">
+  <a href="https://www.kaggle.com/deepagupta25" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"> Kaggle
   </a>
   <a href="https://leetcode.com/u/Deepa-Gupta" rel="nofollow noreferrer">
